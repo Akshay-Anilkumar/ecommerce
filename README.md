@@ -1,12 +1,12 @@
 # E-Commerce Website
 
-This is a simple e-commerce website built using Node.js, Express, and in-memory data structures to manage products and shopping carts.
+This is a simple e-commerce website built using Node.js, Express, and MongoDB to manage products and shopping carts.
 
 ## Features
 
 - Add new products to the system.
 - View available products in the system.
-- Add products to the cart (using in-memory data structures).
+- Add products to the cart.
 - View the items currently in the user's cart.
 - Remove items from the cart.
 - Calculate the total price of items in the cart.
